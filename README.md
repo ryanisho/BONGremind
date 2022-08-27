@@ -29,8 +29,6 @@ N/A
 
 ## Authors
 
-Contributors names and contact info
-
 Ryan Ho
 [@ryhorii](https://twitter.com/ryhorii)
 [@ryanisho](https://instagram.com/ryanisho) 
