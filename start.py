@@ -5,8 +5,8 @@ import datetime
 import time
 import os
 
-account_sid = 'AC4b5039490b497fd657454f54474685b3'
-auth_token = 'ad331810dcde74ec79f0559df4210ac4'
+account_sid = 'SID_TOKEN'
+auth_token = 'AUTH_TOKEN'
 client = Client(account_sid, auth_token)
 
 
